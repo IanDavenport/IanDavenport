@@ -1,5 +1,7 @@
 ### Hi there 👋
 
 
-I’m currently learning software development at Code Nation's coding bootcamp in Manchester.
+I graduated from Code Nation's coding bootcamp in Manchester during November 2020.
+
+
 

@@ -8,4 +8,5 @@ After a month's break off coding, I'm starting to slowly build myself back up ag
 tutorials, though unsure when this GitHub will see commits again.
 
 
+Thanks for stopping by.
 Ian 
